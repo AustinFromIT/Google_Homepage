@@ -1,0 +1,60 @@
+body {
+    background-color: #222222;
+    background: #fff;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+
+a {
+    color: black;
+}
+
+
+.topbar {
+    margin: 47px;
+}
+
+.logo {
+    text-align: center;
+    padding: 109px 0px 0px 0px;
+}
+
+
+.bar {
+    text-align: center;
+    height: 39px;
+    padding: 5px 8px 0px 14px;
+}
+
+.buttons {
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+#footer {
+    list-style-type: none;
+    font-size: 13px;
+    background: #f2f2f2;
+    line-height: 40px;
+    width: 80%;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    overflow-wrap: normal;
+}
+
+li {
+    padding: 0px 0px 0px 27px;
+}
+
+#footer, li
+{
+    float: left;
+}
+
+#footer, #yeet, #terms, #settings {
+    float: right;
+}
